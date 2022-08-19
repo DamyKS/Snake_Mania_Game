@@ -1,11 +1,10 @@
-# Snake Mania Game
+ # Snake Mania Game
 
-Snake Mania is a 2D snake game built using the Pygame library. 
-Its built to be played on a smartphone, hence the touchscreen controls.
+**Snake Mania** is a 2D snake game built using the Pygame library. 
 
 To play the game :
 
-- **You need a Python IDE with Pygame installed on it.**  
+- **You need a Python IDE with Pygame installed on it.** I would suggest you use Pydroid App if you're using an android device. 
 
 - Go to your command line and clone this github repo using:
  `git clone https://github.com/DamyKS/Snake_Mania_Game `
